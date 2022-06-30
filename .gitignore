@@ -30,6 +30,8 @@ build/
 
 ### VS Code ###
 .vscode/
+=======
+>>>>>>> e963c39e1d3590d92228c1048800a7083bdd1a6a
 # Compiled class file
 *.class
 
